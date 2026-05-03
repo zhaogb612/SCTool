@@ -1,0 +1,403 @@
+﻿[2026-02-15 04:40:03.247] [notice ] [bug_report ] [10876:11252] [60E748: 319] BugReport started.
+[2026-02-15 04:40:03.247] [notice ] [bug_report ] [10876:11252] [60E748:  88]  - valid package type found in [send]: 0
+[2026-02-15 04:40:03.247] [notice ] [bug_report ] [10876:11252] [60E748:  88]  - valid package type found in [send]: 2
+[2026-02-15 04:40:03.247] [notice ] [bug_report ] [10876:11252] [60E748: 103]  - setting [product] to 90
+[2026-02-15 04:40:03.247] [notice ] [bug_report ] [10876:11252] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-02-15 04:40:03.248] [notice ] [bug_report ] [10876:11252] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-02-15 04:40:03.248] [notice ] [bug_report ] [10876:11252] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-02-15 04:40:03.248] [notice ] [bug_report ] [10876:11252] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-02-15 04:40:03.248] [notice ] [bug_report ] [10876:11252] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-02-15 04:40:03.248] [notice ] [bug_report ] [10876:11252] [60E748: 181]  - setting [silent]
+[2026-02-15 04:40:03.251] [warning] [crashguard ] [10876:11252] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-02-15 04:40:03.253] [notice ] [crashguard ] [10876:25048] [FF32C0: 180] Process monitoring installed.
+[2026-02-15 04:40:03.261] [notice ] [bug_report ] [10876:11252] [60E748: 396] Processing package type (0)
+[2026-02-15 04:40:03.262] [notice ] [bug_report ] [10876:11252] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-02-15 04:40:03.262] [notice ] [bug_report ] [10876:11252] [60E748: 396] Processing package type (2)
+[2026-02-15 04:40:03.267] [notice ] [bug_report ] [10876:11252] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-02-15 04:40:03.268] [warning] [sb         ] [10876:11252] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-02-15 04:40:03.268] [warning] [sb         ] [10876:11252] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-02-15 04:40:04.423] [notice ] [bug_report ] [10876:11252] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.15.10623} * Metadata submitted and we don't want this payload. Marking as reported.
+[2026-02-15 04:40:04.423] [notice ] [bug_report ] [10876:11252] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-02-15 04:40:04.423] [notice ] [bug_report ] [10876:11252] [60E748: 459] Package type '0' reports result: 0
+[2026-02-15 04:40:04.423] [notice ] [bug_report ] [10876:11252] [60E748: 459] Package type '2' reports result: 2
+[2026-02-15 04:40:04.423] [notice ] [bug_report ] [10876:11252] [60E748: 462] BugReport is finished with: [2].
+[2026-02-20 04:40:03.336] [notice ] [bug_report ] [ 3520: 9264] [60E748: 319] BugReport started.
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748:  88]  - valid package type found in [send]: 0
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748:  88]  - valid package type found in [send]: 2
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748: 103]  - setting [product] to 90
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-02-20 04:40:03.337] [notice ] [bug_report ] [ 3520: 9264] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-02-20 04:40:03.338] [notice ] [bug_report ] [ 3520: 9264] [60E748: 181]  - setting [silent]
+[2026-02-20 04:40:03.340] [warning] [crashguard ] [ 3520: 9264] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-02-20 04:40:03.342] [notice ] [crashguard ] [ 3520: 6600] [FF32C0: 180] Process monitoring installed.
+[2026-02-20 04:40:03.349] [notice ] [bug_report ] [ 3520: 9264] [60E748: 396] Processing package type (0)
+[2026-02-20 04:40:03.350] [notice ] [bug_report ] [ 3520: 9264] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-02-20 04:40:03.350] [notice ] [bug_report ] [ 3520: 9264] [60E748: 396] Processing package type (2)
+[2026-02-20 04:40:03.351] [notice ] [bug_report ] [ 3520: 9264] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-02-20 04:40:03.351] [notice ] [bug_report ] [ 3520: 9264] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-02-20 04:40:03.351] [notice ] [bug_report ] [ 3520: 9264] [60E748: 459] Package type '0' reports result: 0
+[2026-02-20 04:40:03.351] [notice ] [bug_report ] [ 3520: 9264] [60E748: 459] Package type '2' reports result: 0
+[2026-02-20 04:40:03.351] [notice ] [bug_report ] [ 3520: 9264] [60E748: 462] BugReport is finished with: [0].
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748: 319] BugReport started.
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748:  88]  - valid package type found in [send]: 0
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748:  88]  - valid package type found in [send]: 2
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748: 103]  - setting [product] to 90
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-03-14 04:40:02.899] [notice ] [bug_report ] [ 6836:25604] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-03-14 04:40:02.900] [notice ] [bug_report ] [ 6836:25604] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-03-14 04:40:02.900] [notice ] [bug_report ] [ 6836:25604] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-03-14 04:40:02.900] [notice ] [bug_report ] [ 6836:25604] [60E748: 181]  - setting [silent]
+[2026-03-14 04:40:02.902] [warning] [crashguard ] [ 6836:25604] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-03-14 04:40:02.903] [notice ] [crashguard ] [ 6836:25440] [FF32C0: 180] Process monitoring installed.
+[2026-03-14 04:40:02.912] [notice ] [bug_report ] [ 6836:25604] [60E748: 396] Processing package type (0)
+[2026-03-14 04:40:02.912] [notice ] [bug_report ] [ 6836:25604] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-03-14 04:40:02.912] [notice ] [bug_report ] [ 6836:25604] [60E748: 396] Processing package type (2)
+[2026-03-14 04:40:02.915] [notice ] [bug_report ] [ 6836:25604] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-03-14 04:40:02.916] [warning] [sb         ] [ 6836:25604] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-03-14 04:40:02.917] [warning] [sb         ] [ 6836:25604] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-03-14 04:40:03.997] [notice ] [bug_report ] [ 6836:25604] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.15.10623} * Metadata submitted and we don't want this payload. Marking as reported.
+[2026-03-14 04:40:03.997] [notice ] [bug_report ] [ 6836:25604] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-03-14 04:40:03.997] [notice ] [bug_report ] [ 6836:25604] [60E748: 459] Package type '0' reports result: 0
+[2026-03-14 04:40:03.997] [notice ] [bug_report ] [ 6836:25604] [60E748: 459] Package type '2' reports result: 2
+[2026-03-14 04:40:03.997] [notice ] [bug_report ] [ 6836:25604] [60E748: 462] BugReport is finished with: [2].
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748: 319] BugReport started.
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748:  88]  - valid package type found in [send]: 0
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748:  88]  - valid package type found in [send]: 2
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748: 103]  - setting [product] to 90
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-03-17 04:40:02.972] [notice ] [bug_report ] [ 4172: 4976] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-03-17 04:40:02.974] [notice ] [bug_report ] [ 4172: 4976] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-03-17 04:40:02.974] [notice ] [bug_report ] [ 4172: 4976] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-03-17 04:40:02.974] [notice ] [bug_report ] [ 4172: 4976] [60E748: 181]  - setting [silent]
+[2026-03-17 04:40:02.975] [warning] [crashguard ] [ 4172: 4976] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-03-17 04:40:02.977] [notice ] [crashguard ] [ 4172:22224] [FF32C0: 180] Process monitoring installed.
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [60E748: 396] Processing package type (0)
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [60E748: 396] Processing package type (2)
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [60E748: 459] Package type '0' reports result: 0
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [60E748: 459] Package type '2' reports result: 0
+[2026-03-17 04:40:02.986] [notice ] [bug_report ] [ 4172: 4976] [60E748: 462] BugReport is finished with: [0].
+[2026-03-22 04:40:03.185] [notice ] [bug_report ] [28224:  324] [60E748: 319] BugReport started.
+[2026-03-22 04:40:03.185] [notice ] [bug_report ] [28224:  324] [60E748:  88]  - valid package type found in [send]: 0
+[2026-03-22 04:40:03.185] [notice ] [bug_report ] [28224:  324] [60E748:  88]  - valid package type found in [send]: 2
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 103]  - setting [product] to 90
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-03-22 04:40:03.186] [notice ] [bug_report ] [28224:  324] [60E748: 181]  - setting [silent]
+[2026-03-22 04:40:03.188] [warning] [crashguard ] [28224:  324] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-03-22 04:40:03.189] [notice ] [crashguard ] [28224: 2356] [FF32C0: 180] Process monitoring installed.
+[2026-03-22 04:40:03.198] [notice ] [bug_report ] [28224:  324] [60E748: 396] Processing package type (0)
+[2026-03-22 04:40:03.199] [notice ] [bug_report ] [28224:  324] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-03-22 04:40:03.199] [notice ] [bug_report ] [28224:  324] [60E748: 396] Processing package type (2)
+[2026-03-22 04:40:03.203] [notice ] [bug_report ] [28224:  324] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-03-22 04:40:03.204] [warning] [sb         ] [28224:  324] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-03-22 04:40:03.205] [warning] [sb         ] [28224:  324] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-03-22 05:40:11.236] [warning] [bug_report ] [28224:  324] [451BD4: 120] {PackageType_2::LogFilesWithReport-90-6.15.10623} Streamback submitting failed.
+                                                                              Exception: WinHttpSendRequest failed. WinHTTP error code: 12002. '操作超时'
+                                                                              Code: 0x00002ee2 (12002)
+[2026-03-22 05:40:11.242] [notice ] [bug_report ] [28224:  324] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-03-22 05:40:11.251] [notice ] [bug_report ] [28224:  324] [60E748: 459] Package type '0' reports result: 0
+[2026-03-22 05:40:11.251] [notice ] [bug_report ] [28224:  324] [60E748: 459] Package type '2' reports result: 5
+[2026-03-22 05:40:11.251] [notice ] [bug_report ] [28224:  324] [60E748: 462] BugReport is finished with: [5].
+[2026-03-28 04:40:02.789] [notice ] [bug_report ] [16080:22240] [60E748: 319] BugReport started.
+[2026-03-28 04:40:02.789] [notice ] [bug_report ] [16080:22240] [60E748:  88]  - valid package type found in [send]: 0
+[2026-03-28 04:40:02.789] [notice ] [bug_report ] [16080:22240] [60E748:  88]  - valid package type found in [send]: 2
+[2026-03-28 04:40:02.789] [notice ] [bug_report ] [16080:22240] [60E748: 103]  - setting [product] to 90
+[2026-03-28 04:40:02.789] [notice ] [bug_report ] [16080:22240] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-03-28 04:40:02.789] [notice ] [bug_report ] [16080:22240] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-03-28 04:40:02.790] [notice ] [bug_report ] [16080:22240] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-03-28 04:40:02.790] [notice ] [bug_report ] [16080:22240] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-03-28 04:40:02.790] [notice ] [bug_report ] [16080:22240] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-03-28 04:40:02.790] [notice ] [bug_report ] [16080:22240] [60E748: 181]  - setting [silent]
+[2026-03-28 04:40:02.791] [warning] [crashguard ] [16080:22240] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-03-28 04:40:02.793] [notice ] [crashguard ] [16080: 6832] [FF32C0: 180] Process monitoring installed.
+[2026-03-28 04:40:02.799] [notice ] [bug_report ] [16080:22240] [60E748: 396] Processing package type (0)
+[2026-03-28 04:40:02.800] [notice ] [bug_report ] [16080:22240] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-03-28 04:40:02.800] [notice ] [bug_report ] [16080:22240] [60E748: 396] Processing package type (2)
+[2026-03-28 04:40:02.802] [notice ] [bug_report ] [16080:22240] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-03-28 04:40:02.802] [warning] [sb         ] [16080:22240] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-03-28 04:40:02.804] [warning] [sb         ] [16080:22240] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-03-28 04:40:54.534] [warning] [bug_report ] [16080:22240] [451BD4: 120] {PackageType_2::LogFilesWithReport-90-6.15.10623} Streamback submitting failed.
+                                                                              Exception: WinHttpSendRequest failed. WinHTTP error code: 12002. '操作超时'
+                                                                              Code: 0x00002ee2 (12002)
+[2026-03-28 04:40:54.534] [notice ] [bug_report ] [16080:22240] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-03-28 04:40:54.536] [notice ] [bug_report ] [16080:22240] [60E748: 459] Package type '0' reports result: 0
+[2026-03-28 04:40:54.536] [notice ] [bug_report ] [16080:22240] [60E748: 459] Package type '2' reports result: 5
+[2026-03-28 04:40:54.536] [notice ] [bug_report ] [16080:22240] [60E748: 462] BugReport is finished with: [5].
+[2026-03-29 04:40:02.990] [notice ] [bug_report ] [15812: 8904] [60E748: 319] BugReport started.
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748:  88]  - valid package type found in [send]: 0
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748:  88]  - valid package type found in [send]: 2
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748: 103]  - setting [product] to 90
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-03-29 04:40:02.991] [notice ] [bug_report ] [15812: 8904] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-03-29 04:40:02.992] [notice ] [bug_report ] [15812: 8904] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-03-29 04:40:02.992] [notice ] [bug_report ] [15812: 8904] [60E748: 181]  - setting [silent]
+[2026-03-29 04:40:02.994] [warning] [crashguard ] [15812: 8904] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-03-29 04:40:02.995] [notice ] [crashguard ] [15812: 7912] [FF32C0: 180] Process monitoring installed.
+[2026-03-29 04:40:03.001] [notice ] [bug_report ] [15812: 8904] [60E748: 396] Processing package type (0)
+[2026-03-29 04:40:03.002] [notice ] [bug_report ] [15812: 8904] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-03-29 04:40:03.002] [notice ] [bug_report ] [15812: 8904] [60E748: 396] Processing package type (2)
+[2026-03-29 04:40:03.004] [notice ] [bug_report ] [15812: 8904] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-03-29 04:40:03.005] [warning] [sb         ] [15812: 8904] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-03-29 04:40:03.006] [warning] [sb         ] [15812: 8904] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-03-29 04:40:04.957] [notice ] [bug_report ] [15812: 8904] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.15.10623} * Metadata submitted and we don't want this payload. Marking as reported.
+[2026-03-29 04:40:04.957] [notice ] [bug_report ] [15812: 8904] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-03-29 04:40:04.958] [notice ] [bug_report ] [15812: 8904] [60E748: 459] Package type '0' reports result: 0
+[2026-03-29 04:40:04.958] [notice ] [bug_report ] [15812: 8904] [60E748: 459] Package type '2' reports result: 2
+[2026-03-29 04:40:04.958] [notice ] [bug_report ] [15812: 8904] [60E748: 462] BugReport is finished with: [2].
+[2026-04-11 04:40:05.063] [notice ] [bug_report ] [32620:32708] [60E748: 319] BugReport started.
+[2026-04-11 04:40:05.063] [notice ] [bug_report ] [32620:32708] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 103]  - setting [product] to 90
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-11 04:40:05.064] [notice ] [bug_report ] [32620:32708] [60E748: 181]  - setting [silent]
+[2026-04-11 04:40:05.066] [warning] [crashguard ] [32620:32708] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-11 04:40:05.068] [notice ] [crashguard ] [32620:26708] [FF32C0: 180] Process monitoring installed.
+[2026-04-11 04:40:05.076] [notice ] [bug_report ] [32620:32708] [60E748: 396] Processing package type (0)
+[2026-04-11 04:40:05.077] [notice ] [bug_report ] [32620:32708] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-11 04:40:05.078] [notice ] [bug_report ] [32620:32708] [60E748: 396] Processing package type (2)
+[2026-04-11 04:40:05.081] [notice ] [bug_report ] [32620:32708] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-04-11 04:40:05.082] [warning] [sb         ] [32620:32708] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-04-11 04:40:05.083] [warning] [sb         ] [32620:32708] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-04-19 04:40:03.579] [notice ] [bug_report ] [25808:26784] [60E748: 319] BugReport started.
+[2026-04-19 04:40:03.579] [notice ] [bug_report ] [25808:26784] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-19 04:40:03.579] [notice ] [bug_report ] [25808:26784] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-19 04:40:03.579] [notice ] [bug_report ] [25808:26784] [60E748: 103]  - setting [product] to 90
+[2026-04-19 04:40:03.579] [notice ] [bug_report ] [25808:26784] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-19 04:40:03.581] [notice ] [bug_report ] [25808:26784] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-19 04:40:03.581] [notice ] [bug_report ] [25808:26784] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-19 04:40:03.581] [notice ] [bug_report ] [25808:26784] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-19 04:40:03.581] [notice ] [bug_report ] [25808:26784] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-19 04:40:03.581] [notice ] [bug_report ] [25808:26784] [60E748: 181]  - setting [silent]
+[2026-04-19 04:40:03.582] [warning] [crashguard ] [25808:26784] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-19 04:40:03.587] [notice ] [crashguard ] [25808:26896] [FF32C0: 180] Process monitoring installed.
+[2026-04-19 04:40:03.593] [notice ] [bug_report ] [25808:26784] [60E748: 396] Processing package type (0)
+[2026-04-19 04:40:03.594] [notice ] [bug_report ] [25808:26784] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-19 04:40:03.594] [notice ] [bug_report ] [25808:26784] [60E748: 396] Processing package type (2)
+[2026-04-19 04:40:03.597] [notice ] [bug_report ] [25808:26784] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-04-19 04:40:03.599] [warning] [sb         ] [25808:26784] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-04-19 04:40:03.600] [warning] [sb         ] [25808:26784] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-04-19 04:40:04.777] [notice ] [bug_report ] [25808:26784] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.15.10623} * Metadata submitted and we don't want this payload. Marking as reported.
+[2026-04-19 04:40:04.777] [notice ] [bug_report ] [25808:26784] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-04-19 04:40:04.777] [notice ] [bug_report ] [25808:26784] [60E748: 459] Package type '0' reports result: 0
+[2026-04-19 04:40:04.777] [notice ] [bug_report ] [25808:26784] [60E748: 459] Package type '2' reports result: 2
+[2026-04-19 04:40:04.777] [notice ] [bug_report ] [25808:26784] [60E748: 462] BugReport is finished with: [2].
+[2026-04-21 04:40:03.848] [notice ] [bug_report ] [21088: 3392] [60E748: 319] BugReport started.
+[2026-04-21 04:40:03.848] [notice ] [bug_report ] [21088: 3392] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 103]  - setting [product] to 90
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-21 04:40:03.849] [notice ] [bug_report ] [21088: 3392] [60E748: 181]  - setting [silent]
+[2026-04-21 04:40:03.851] [warning] [crashguard ] [21088: 3392] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-21 04:40:03.866] [notice ] [crashguard ] [21088:21512] [FF32C0: 180] Process monitoring installed.
+[2026-04-21 04:40:03.874] [notice ] [bug_report ] [21088: 3392] [60E748: 396] Processing package type (0)
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [60E748: 396] Processing package type (2)
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [60E748: 459] Package type '0' reports result: 0
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [60E748: 459] Package type '2' reports result: 0
+[2026-04-21 04:40:03.875] [notice ] [bug_report ] [21088: 3392] [60E748: 462] BugReport is finished with: [0].
+[2026-04-23 04:40:06.579] [notice ] [bug_report ] [14604:20212] [60E748: 319] BugReport started.
+[2026-04-23 04:40:06.580] [notice ] [bug_report ] [14604:20212] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-23 04:40:06.581] [notice ] [bug_report ] [14604:20212] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-23 04:40:06.581] [notice ] [bug_report ] [14604:20212] [60E748: 103]  - setting [product] to 90
+[2026-04-23 04:40:06.581] [notice ] [bug_report ] [14604:20212] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-23 04:40:06.581] [notice ] [bug_report ] [14604:20212] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-23 04:40:06.581] [notice ] [bug_report ] [14604:20212] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-23 04:40:06.582] [notice ] [bug_report ] [14604:20212] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-23 04:40:06.582] [notice ] [bug_report ] [14604:20212] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-23 04:40:06.582] [notice ] [bug_report ] [14604:20212] [60E748: 181]  - setting [silent]
+[2026-04-23 04:40:06.587] [warning] [crashguard ] [14604:20212] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-23 04:40:06.595] [notice ] [crashguard ] [14604: 7612] [FF32C0: 180] Process monitoring installed.
+[2026-04-23 04:40:06.607] [notice ] [bug_report ] [14604:20212] [60E748: 396] Processing package type (0)
+[2026-04-23 04:40:06.608] [notice ] [bug_report ] [14604:20212] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-23 04:40:06.608] [notice ] [bug_report ] [14604:20212] [60E748: 396] Processing package type (2)
+[2026-04-23 04:40:06.609] [notice ] [bug_report ] [14604:20212] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-23 04:40:06.609] [notice ] [bug_report ] [14604:20212] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-23 04:40:06.609] [notice ] [bug_report ] [14604:20212] [60E748: 459] Package type '0' reports result: 0
+[2026-04-23 04:40:06.609] [notice ] [bug_report ] [14604:20212] [60E748: 459] Package type '2' reports result: 0
+[2026-04-23 04:40:06.609] [notice ] [bug_report ] [14604:20212] [60E748: 462] BugReport is finished with: [0].
+[2026-04-24 04:40:06.674] [notice ] [bug_report ] [ 7524:11620] [60E748: 319] BugReport started.
+[2026-04-24 04:40:06.675] [notice ] [bug_report ] [ 7524:11620] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-24 04:40:06.675] [notice ] [bug_report ] [ 7524:11620] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-24 04:40:06.675] [notice ] [bug_report ] [ 7524:11620] [60E748: 103]  - setting [product] to 90
+[2026-04-24 04:40:06.675] [notice ] [bug_report ] [ 7524:11620] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-24 04:40:06.675] [notice ] [bug_report ] [ 7524:11620] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-24 04:40:06.675] [notice ] [bug_report ] [ 7524:11620] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-24 04:40:06.676] [notice ] [bug_report ] [ 7524:11620] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-24 04:40:06.676] [notice ] [bug_report ] [ 7524:11620] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-24 04:40:06.676] [notice ] [bug_report ] [ 7524:11620] [60E748: 181]  - setting [silent]
+[2026-04-24 04:40:06.680] [warning] [crashguard ] [ 7524:11620] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-24 04:40:06.692] [notice ] [crashguard ] [ 7524:13184] [FF32C0: 180] Process monitoring installed.
+[2026-04-24 04:40:06.705] [notice ] [bug_report ] [ 7524:11620] [60E748: 396] Processing package type (0)
+[2026-04-24 04:40:06.707] [notice ] [bug_report ] [ 7524:11620] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-24 04:40:06.707] [notice ] [bug_report ] [ 7524:11620] [60E748: 396] Processing package type (2)
+[2026-04-24 04:40:06.708] [notice ] [bug_report ] [ 7524:11620] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-24 04:40:06.708] [notice ] [bug_report ] [ 7524:11620] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-24 04:40:06.708] [notice ] [bug_report ] [ 7524:11620] [60E748: 459] Package type '0' reports result: 0
+[2026-04-24 04:40:06.708] [notice ] [bug_report ] [ 7524:11620] [60E748: 459] Package type '2' reports result: 0
+[2026-04-24 04:40:06.708] [notice ] [bug_report ] [ 7524:11620] [60E748: 462] BugReport is finished with: [0].
+[2026-04-25 04:40:04.156] [notice ] [bug_report ] [25112:25020] [60E748: 319] BugReport started.
+[2026-04-25 04:40:04.156] [notice ] [bug_report ] [25112:25020] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-25 04:40:04.156] [notice ] [bug_report ] [25112:25020] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-25 04:40:04.156] [notice ] [bug_report ] [25112:25020] [60E748: 103]  - setting [product] to 90
+[2026-04-25 04:40:04.157] [notice ] [bug_report ] [25112:25020] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-25 04:40:04.157] [notice ] [bug_report ] [25112:25020] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-25 04:40:04.157] [notice ] [bug_report ] [25112:25020] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-25 04:40:04.157] [notice ] [bug_report ] [25112:25020] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-25 04:40:04.157] [notice ] [bug_report ] [25112:25020] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-25 04:40:04.157] [notice ] [bug_report ] [25112:25020] [60E748: 181]  - setting [silent]
+[2026-04-25 04:40:04.160] [warning] [crashguard ] [25112:25020] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-25 04:40:04.165] [notice ] [crashguard ] [25112:  476] [FF32C0: 180] Process monitoring installed.
+[2026-04-25 04:40:04.171] [notice ] [bug_report ] [25112:25020] [60E748: 396] Processing package type (0)
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [60E748: 396] Processing package type (2)
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [60E748: 459] Package type '0' reports result: 0
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [60E748: 459] Package type '2' reports result: 0
+[2026-04-25 04:40:04.172] [notice ] [bug_report ] [25112:25020] [60E748: 462] BugReport is finished with: [0].
+[2026-04-26 04:40:09.794] [notice ] [bug_report ] [20672:26404] [60E748: 319] BugReport started.
+[2026-04-26 04:40:09.794] [notice ] [bug_report ] [20672:26404] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-26 04:40:09.795] [notice ] [bug_report ] [20672:26404] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-26 04:40:09.795] [notice ] [bug_report ] [20672:26404] [60E748: 103]  - setting [product] to 90
+[2026-04-26 04:40:09.795] [notice ] [bug_report ] [20672:26404] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-26 04:40:09.796] [notice ] [bug_report ] [20672:26404] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-26 04:40:09.796] [notice ] [bug_report ] [20672:26404] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-26 04:40:09.796] [notice ] [bug_report ] [20672:26404] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-26 04:40:09.796] [notice ] [bug_report ] [20672:26404] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-26 04:40:09.796] [notice ] [bug_report ] [20672:26404] [60E748: 181]  - setting [silent]
+[2026-04-26 04:40:09.802] [warning] [crashguard ] [20672:26404] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-26 04:40:09.811] [notice ] [crashguard ] [20672:26056] [FF32C0: 180] Process monitoring installed.
+[2026-04-26 04:40:09.825] [notice ] [bug_report ] [20672:26404] [60E748: 396] Processing package type (0)
+[2026-04-26 04:40:09.826] [notice ] [bug_report ] [20672:26404] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-26 04:40:09.826] [notice ] [bug_report ] [20672:26404] [60E748: 396] Processing package type (2)
+[2026-04-26 04:40:09.836] [notice ] [bug_report ] [20672:26404] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.15.10623} About to submit payload of type (2.102)
+[2026-04-26 04:40:09.839] [warning] [sb         ] [20672:26404] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.15.10623} Couldn't get installation info.
+[2026-04-26 04:40:09.840] [warning] [sb         ] [20672:26404] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.15.10623} InitAvastIdentity was not able to get running program version
+[2026-04-26 04:40:11.089] [notice ] [bug_report ] [20672:26404] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.15.10623} * Metadata submitted and we don't want this payload. Marking as reported.
+[2026-04-26 04:40:11.090] [notice ] [bug_report ] [20672:26404] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was NOT submitted
+[2026-04-26 04:40:11.091] [notice ] [bug_report ] [20672:26404] [60E748: 459] Package type '0' reports result: 0
+[2026-04-26 04:40:11.091] [notice ] [bug_report ] [20672:26404] [60E748: 459] Package type '2' reports result: 2
+[2026-04-26 04:40:11.091] [notice ] [bug_report ] [20672:26404] [60E748: 462] BugReport is finished with: [2].
+[2026-04-27 04:40:11.426] [notice ] [bug_report ] [  496: 4036] [60E748: 319] BugReport started.
+[2026-04-27 04:40:11.426] [notice ] [bug_report ] [  496: 4036] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-27 04:40:11.427] [notice ] [bug_report ] [  496: 4036] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-27 04:40:11.427] [notice ] [bug_report ] [  496: 4036] [60E748: 103]  - setting [product] to 90
+[2026-04-27 04:40:11.427] [notice ] [bug_report ] [  496: 4036] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-27 04:40:11.427] [notice ] [bug_report ] [  496: 4036] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-27 04:40:11.427] [notice ] [bug_report ] [  496: 4036] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-27 04:40:11.428] [notice ] [bug_report ] [  496: 4036] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-27 04:40:11.428] [notice ] [bug_report ] [  496: 4036] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-27 04:40:11.428] [notice ] [bug_report ] [  496: 4036] [60E748: 181]  - setting [silent]
+[2026-04-27 04:40:11.432] [warning] [crashguard ] [  496: 4036] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-27 04:40:11.434] [notice ] [crashguard ] [  496:10400] [FF32C0: 180] Process monitoring installed.
+[2026-04-27 04:40:11.447] [notice ] [bug_report ] [  496: 4036] [60E748: 396] Processing package type (0)
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [60E748: 396] Processing package type (2)
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [60E748: 459] Package type '0' reports result: 0
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [60E748: 459] Package type '2' reports result: 0
+[2026-04-27 04:40:11.448] [notice ] [bug_report ] [  496: 4036] [60E748: 462] BugReport is finished with: [0].
+[2026-04-28 04:40:09.391] [notice ] [bug_report ] [13000:12336] [60E748: 319] BugReport started.
+[2026-04-28 04:40:09.392] [notice ] [bug_report ] [13000:12336] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-28 04:40:09.393] [notice ] [bug_report ] [13000:12336] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-28 04:40:09.393] [notice ] [bug_report ] [13000:12336] [60E748: 103]  - setting [product] to 90
+[2026-04-28 04:40:09.393] [notice ] [bug_report ] [13000:12336] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-28 04:40:09.394] [notice ] [bug_report ] [13000:12336] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-28 04:40:09.394] [notice ] [bug_report ] [13000:12336] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-28 04:40:09.394] [notice ] [bug_report ] [13000:12336] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-28 04:40:09.394] [notice ] [bug_report ] [13000:12336] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-28 04:40:09.395] [notice ] [bug_report ] [13000:12336] [60E748: 181]  - setting [silent]
+[2026-04-28 04:40:09.400] [warning] [crashguard ] [13000:12336] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-28 04:40:09.405] [notice ] [crashguard ] [13000: 9252] [FF32C0: 180] Process monitoring installed.
+[2026-04-28 04:40:09.430] [notice ] [bug_report ] [13000:12336] [60E748: 396] Processing package type (0)
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [60E748: 396] Processing package type (2)
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [60E748: 459] Package type '0' reports result: 0
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [60E748: 459] Package type '2' reports result: 0
+[2026-04-28 04:40:09.432] [notice ] [bug_report ] [13000:12336] [60E748: 462] BugReport is finished with: [0].
+[2026-04-29 04:40:05.631] [notice ] [bug_report ] [24328:22956] [60E748: 319] BugReport started.
+[2026-04-29 04:40:05.631] [notice ] [bug_report ] [24328:22956] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-29 04:40:05.632] [notice ] [bug_report ] [24328:22956] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-29 04:40:05.632] [notice ] [bug_report ] [24328:22956] [60E748: 103]  - setting [product] to 90
+[2026-04-29 04:40:05.632] [notice ] [bug_report ] [24328:22956] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-29 04:40:05.632] [notice ] [bug_report ] [24328:22956] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-29 04:40:05.632] [notice ] [bug_report ] [24328:22956] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-29 04:40:05.632] [notice ] [bug_report ] [24328:22956] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-29 04:40:05.633] [notice ] [bug_report ] [24328:22956] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-29 04:40:05.633] [notice ] [bug_report ] [24328:22956] [60E748: 181]  - setting [silent]
+[2026-04-29 04:40:05.639] [warning] [crashguard ] [24328:22956] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-29 04:40:05.642] [notice ] [crashguard ] [24328:16664] [FF32C0: 180] Process monitoring installed.
+[2026-04-29 04:40:05.656] [notice ] [bug_report ] [24328:22956] [60E748: 396] Processing package type (0)
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [60E748: 396] Processing package type (2)
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [60E748: 459] Package type '0' reports result: 0
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [60E748: 459] Package type '2' reports result: 0
+[2026-04-29 04:40:05.659] [notice ] [bug_report ] [24328:22956] [60E748: 462] BugReport is finished with: [0].
+[2026-04-30 04:40:07.546] [notice ] [bug_report ] [ 6740:22644] [60E748: 319] BugReport started.
+[2026-04-30 04:40:07.546] [notice ] [bug_report ] [ 6740:22644] [60E748:  88]  - valid package type found in [send]: 0
+[2026-04-30 04:40:07.547] [notice ] [bug_report ] [ 6740:22644] [60E748:  88]  - valid package type found in [send]: 2
+[2026-04-30 04:40:07.547] [notice ] [bug_report ] [ 6740:22644] [60E748: 103]  - setting [product] to 90
+[2026-04-30 04:40:07.547] [notice ] [bug_report ] [ 6740:22644] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-04-30 04:40:07.547] [notice ] [bug_report ] [ 6740:22644] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-04-30 04:40:07.547] [notice ] [bug_report ] [ 6740:22644] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-04-30 04:40:07.548] [notice ] [bug_report ] [ 6740:22644] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-04-30 04:40:07.548] [notice ] [bug_report ] [ 6740:22644] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-04-30 04:40:07.549] [notice ] [bug_report ] [ 6740:22644] [60E748: 181]  - setting [silent]
+[2026-04-30 04:40:07.553] [warning] [crashguard ] [ 6740:22644] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-04-30 04:40:07.556] [notice ] [crashguard ] [ 6740:17392] [FF32C0: 180] Process monitoring installed.
+[2026-04-30 04:40:07.569] [notice ] [bug_report ] [ 6740:22644] [60E748: 396] Processing package type (0)
+[2026-04-30 04:40:07.571] [notice ] [bug_report ] [ 6740:22644] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-04-30 04:40:07.571] [notice ] [bug_report ] [ 6740:22644] [60E748: 396] Processing package type (2)
+[2026-04-30 04:40:07.571] [notice ] [bug_report ] [ 6740:22644] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-04-30 04:40:07.571] [notice ] [bug_report ] [ 6740:22644] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-04-30 04:40:07.572] [notice ] [bug_report ] [ 6740:22644] [60E748: 459] Package type '0' reports result: 0
+[2026-04-30 04:40:07.572] [notice ] [bug_report ] [ 6740:22644] [60E748: 459] Package type '2' reports result: 0
+[2026-04-30 04:40:07.572] [notice ] [bug_report ] [ 6740:22644] [60E748: 462] BugReport is finished with: [0].
+[2026-05-02 04:40:04.128] [notice ] [bug_report ] [ 7236: 6400] [60E748: 319] BugReport started.
+[2026-05-02 04:40:04.128] [notice ] [bug_report ] [ 7236: 6400] [60E748:  88]  - valid package type found in [send]: 0
+[2026-05-02 04:40:04.128] [notice ] [bug_report ] [ 7236: 6400] [60E748:  88]  - valid package type found in [send]: 2
+[2026-05-02 04:40:04.128] [notice ] [bug_report ] [ 7236: 6400] [60E748: 103]  - setting [product] to 90
+[2026-05-02 04:40:04.128] [notice ] [bug_report ] [ 7236: 6400] [60E748: 112]  - setting [path] to D:\CCleaner pro 6.15.10623 绿色版\LOG
+[2026-05-02 04:40:04.129] [notice ] [bug_report ] [ 7236: 6400] [60E748: 121]  - setting [programpath] to D:\CCleaner pro 6.15.10623 绿色版
+[2026-05-02 04:40:04.129] [notice ] [bug_report ] [ 7236: 6400] [60E748: 125]  - setting [configpath] to D:\CCleaner pro 6.15.10623 绿色版\Setup
+[2026-05-02 04:40:04.129] [notice ] [bug_report ] [ 7236: 6400] [60E748: 145]  - setting [version] to 6.15.10623
+[2026-05-02 04:40:04.129] [notice ] [bug_report ] [ 7236: 6400] [60E748: 149]  - setting [guid] to 0d36be1f-4b9b-4c3f-bddd-b355938c6fae
+[2026-05-02 04:40:04.129] [notice ] [bug_report ] [ 7236: 6400] [60E748: 181]  - setting [silent]
+[2026-05-02 04:40:04.131] [warning] [crashguard ] [ 7236: 6400] [4AF4BF: 262] Process dumper doesn't exist in path 'D:\CCleaner pro 6.15.10623 绿色版'.
+[2026-05-02 04:40:04.132] [notice ] [crashguard ] [ 7236:18356] [FF32C0: 180] Process monitoring installed.
+[2026-05-02 04:40:04.138] [notice ] [bug_report ] [ 7236: 6400] [60E748: 396] Processing package type (0)
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [60E748: 396] Processing package type (2)
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.15.10623} Regular log send interval not reached yet, skipping...
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.15.10623} Payload was skipped due to readiness status: 2
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [60E748: 459] Package type '0' reports result: 0
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [60E748: 459] Package type '2' reports result: 0
+[2026-05-02 04:40:04.139] [notice ] [bug_report ] [ 7236: 6400] [60E748: 462] BugReport is finished with: [0].
